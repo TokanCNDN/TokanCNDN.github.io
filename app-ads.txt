@@ -1,0 +1,2 @@
+# AdMob hesabı açılınca aşağıdaki satırın başındaki # kaldırılır ve pub-XXXXXXXXXXXXXXXX yerine kendi yayıncı kimliğin yazılır.
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
